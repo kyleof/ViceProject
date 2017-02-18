@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34358" started-at="2017-02-18T22:22:38Z" finished-at="2017-02-18T22:23:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34358" started-at="2017-02-18T22:22:38Z" finished-at="2017-02-18T22:23:12Z">
+      <class name="vice.test.testClass">
+        <test-method status="PASS" signature="thetest()[pri:0, instance:vice.test.testClass@1b604f19]" name="thetest" duration-ms="34299" started-at="2017-02-18T17:22:38Z" finished-at="2017-02-18T17:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thetest -->
+      </class> <!-- vice.test.testClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
