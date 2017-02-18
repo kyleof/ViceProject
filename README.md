@@ -1,6 +1,6 @@
 # ViceProject
 
-I created One page object with a few methods in order to complete the Assignment. 
+I created one page object with a few methods in order to complete the assignment. 
 I coded the assignment in Java using Selenium & TestNG.
 
 The test follows these steps:
